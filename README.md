@@ -1,19 +1,4 @@
-# hafta1-odev1
+# Find the Target Sum
 
-<strong>1-) Bir sayı dizisi ve hedef değeri veriliyor. Toplamı, hedefe eşit olan ikililerin indexlerini dönen fonksiyonu yazınız.</strong>
-
-Örnek 1:
-
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Output: Çünkü nums[0] + nums[1] == 9,  return [0, 1].
-
-Örnek 2:
-
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
-
-Örnek 3:
-
-Input: nums = [3,3], target = 6
-Output: [0,1]
+- In this project we need to find the target value by sum provided indexes of an array.
+- For example, we have an array like this => [ 4, 2, 6, 1, 3, 9, 0 ] and the target value is "4". So, we will check all the pair indexes which are give us the target value. 
